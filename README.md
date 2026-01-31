@@ -25,4 +25,4 @@ A customizable and secure password generator built with Python. Unlike simple ge
 3. Navigate to the project folder.
 4. Run the script:
    ```bash
-   python main.py
+   Password Generator.py
